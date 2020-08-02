@@ -1,6 +1,6 @@
 # react-native-tracking-app
 
-Use in conjunction with "track-server" available here to connect to a mongoDB instance with user authentication and track storage
+Use in conjunction with [track-server-mongoDB](https://github.com/Hunter71a/track-server-mongoDB/blob/master/README.md) also available in my repository to connect to and create a mongoDB instance with user authentication and track storage.
 
 Steps to make operational:
 
